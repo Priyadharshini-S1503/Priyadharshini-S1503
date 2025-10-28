@@ -44,7 +44,7 @@
 - 🎯 Interested in **Web Development**, **Problem Solving**, and **Innovation**  
 - 🚀 Completed **NPTEL**, **Springboard**, and **Internship @Cybernaut**  
 - 🌱 Currently learning **Japanese (N4)** and improving technical skills  
-- ✨ Goal: To join **TCS as a Web Developer**  
+ 
 
 
 ---
